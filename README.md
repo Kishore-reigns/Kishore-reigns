@@ -35,13 +35,7 @@ I'm Malarvannan M ⚡
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-reigns&layout=compact&theme=radical)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishore-reigns&show_icons=true&count_private=true)
-
-## Contribution Streak
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kishore-reigns)
 
 
 <!--
