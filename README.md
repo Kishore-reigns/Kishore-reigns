@@ -31,7 +31,7 @@ I'm Malarvannan M ⚡
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
-## Most Used Languages
+## Most Used Languages In Public Repos
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-reigns&layout=compact&theme=radical)
 
