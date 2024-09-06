@@ -31,6 +31,10 @@ I'm Malarvannan M ⚡
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
 
 <!--
 **Kishore-reigns/Kishore-reigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
