@@ -35,6 +35,10 @@ I'm Malarvannan M ⚡
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-reigns&layout=compact&theme=radical)
 
+## Contributions
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Kishore-reigns)
+
+
 
 <!--
 **Kishore-reigns/Kishore-reigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
