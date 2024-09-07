@@ -30,6 +30,16 @@ I'm Malarvannan M ⚡
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+## Design and Media Tools
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Kinemaster](https://img.shields.io/badge/Kinemaster-3C3C3C?style=for-the-badge&logo=kinemaster&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Clipchamp](https://img.shields.io/badge/Clipchamp-000000?style=for-the-badge&logo=clipchamp&logoColor=white)
+![Picsart](https://img.shields.io/badge/Picsart-FF3A4D?style=for-the-badge&logo=picsart&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C6C0?style=for-the-badge&logo=canva&logoColor=white)
+
+
 
 ## Most Used Languages In Public Repos
 
