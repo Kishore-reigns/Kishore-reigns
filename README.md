@@ -22,6 +22,7 @@ I'm Malarvannan M ⚡
 
 ![SQLPlus](https://img.shields.io/badge/SQLPlus-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-43A541?style=for-the-badge&logo=postgres&logoColor=white)
 
 ## Tools and Engines
 
