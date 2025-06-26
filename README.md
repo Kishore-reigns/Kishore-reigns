@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I'm Malarvannan M ⚡
 
-- 🔭 I’m a Third year B.E.Computer Science undergraduate student at Madras Institute of Technology.
+- 🔭 I’m a Final year B.E.Computer Science undergraduate student at Madras Institute of Technology.
 
 ## Languages and Frameworks
 
