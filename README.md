@@ -1,7 +1,9 @@
 ## Hi there 👋 
 I'm Malarvannan M ⚡
 
-- 🔭 I’m a Final year B.E.Computer Science undergraduate student at Madras Institute of Technology.
+- Software Engineer at Trimble Inc. 
+- 🔭 B.E.Computer Science undergraduate student fromm Madras Institute of Technology, Anna University.
+  
 
 ## Languages and Frameworks
 
